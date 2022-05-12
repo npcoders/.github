@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wprefers.com" target="_blank"><img src="../art/npcoders.png" width="400"></a></p>
+<p align="center"><a href="https://wprefers.com" target="_blank"><img src="./../art/npcoders.png" width="400"></a></p>
 
 # About NP Coders
 
